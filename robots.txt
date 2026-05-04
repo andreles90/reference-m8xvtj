@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://andreles90.github.io/reference-m8xvtj/sitemap.xml
